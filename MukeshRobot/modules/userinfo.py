@@ -323,7 +323,7 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url=f"https://t.me/IN_FO"
+                                "ʜᴇᴀʟᴛʜ", url=f"https://t.me/DX_INFO"
                             ),
                             InlineKeyboardButton(
                                 "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/YARANA_TG"
